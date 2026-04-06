@@ -1,0 +1,555 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Roguelike\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{272E6E5C-0BC3-458F-AB29-BBED73CEDC4E}|Roguelike.csproj|c:\\users\\user\\source\\repos\\roguelike\\redemption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{272E6E5C-0BC3-458F-AB29-BBED73CEDC4E}|Roguelike.csproj|solutionrelative:redemption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{272E6E5C-0BC3-458F-AB29-BBED73CEDC4E}|Roguelike.csproj|c:\\users\\user\\source\\repos\\roguelike\\scripts\\graphics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{272E6E5C-0BC3-458F-AB29-BBED73CEDC4E}|Roguelike.csproj|solutionrelative:scripts\\graphics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{272E6E5C-0BC3-458F-AB29-BBED73CEDC4E}|Roguelike.csproj|c:\\users\\user\\source\\repos\\roguelike\\assets\\tiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{272E6E5C-0BC3-458F-AB29-BBED73CEDC4E}|Roguelike.csproj|solutionrelative:assets\\tiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{272E6E5C-0BC3-458F-AB29-BBED73CEDC4E}|Roguelike.csproj|c:\\users\\user\\source\\repos\\roguelike\\assets\\symbols.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{272E6E5C-0BC3-458F-AB29-BBED73CEDC4E}|Roguelike.csproj|solutionrelative:assets\\symbols.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{272E6E5C-0BC3-458F-AB29-BBED73CEDC4E}|Roguelike.csproj|c:\\users\\user\\source\\repos\\roguelike\\scripts\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{272E6E5C-0BC3-458F-AB29-BBED73CEDC4E}|Roguelike.csproj|solutionrelative:scripts\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{272E6E5C-0BC3-458F-AB29-BBED73CEDC4E}|Roguelike.csproj|c:\\users\\user\\source\\repos\\roguelike\\scripts\\tile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{272E6E5C-0BC3-458F-AB29-BBED73CEDC4E}|Roguelike.csproj|solutionrelative:scripts\\tile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\source\\repos\\ConsoleEngine\\Core\\System\\ECS\\Tile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{272E6E5C-0BC3-458F-AB29-BBED73CEDC4E}|Roguelike.csproj|c:\\users\\user\\source\\repos\\roguelike\\scripts\\vector2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{272E6E5C-0BC3-458F-AB29-BBED73CEDC4E}|Roguelike.csproj|solutionrelative:scripts\\vector2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\source\\repos\\ConsoleEngine\\Core\\System\\ECS\\GameObject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\source\\repos\\ConsoleEngine\\Core\\System\\ECS\\Components\\Position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{272E6E5C-0BC3-458F-AB29-BBED73CEDC4E}|Roguelike.csproj|c:\\users\\user\\source\\repos\\roguelike\\assets\\documentation.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{272E6E5C-0BC3-458F-AB29-BBED73CEDC4E}|Roguelike.csproj|solutionrelative:assets\\documentation.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{272E6E5C-0BC3-458F-AB29-BBED73CEDC4E}|Roguelike.csproj|c:\\users\\user\\source\\repos\\roguelike\\consoleengine\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{272E6E5C-0BC3-458F-AB29-BBED73CEDC4E}|Roguelike.csproj|solutionrelative:consoleengine\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{272E6E5C-0BC3-458F-AB29-BBED73CEDC4E}|Roguelike.csproj|c:\\users\\user\\source\\repos\\roguelike\\consoleengine\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{272E6E5C-0BC3-458F-AB29-BBED73CEDC4E}|Roguelike.csproj|solutionrelative:consoleengine\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{272E6E5C-0BC3-458F-AB29-BBED73CEDC4E}|Roguelike.csproj|c:\\users\\user\\source\\repos\\roguelike\\roguelike.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{272E6E5C-0BC3-458F-AB29-BBED73CEDC4E}|Roguelike.csproj|solutionrelative:roguelike.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\source\\repos\\ConsoleEngine\\Core\\System\\ECS\\Text.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\source\\repos\\TOR\\Scripts\\UI\\GameUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\source\\repos\\TOR\\Scripts\\UI\\UI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\source\\repos\\TOR\\TempleOR.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\source\\repos\\TOR\\Scripts\\HandleInput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{272E6E5C-0BC3-458F-AB29-BBED73CEDC4E}|Roguelike.csproj|c:\\users\\user\\source\\repos\\roguelike\\consoleengine\\core\\consolefullscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{272E6E5C-0BC3-458F-AB29-BBED73CEDC4E}|Roguelike.csproj|solutionrelative:consoleengine\\core\\consolefullscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{272E6E5C-0BC3-458F-AB29-BBED73CEDC4E}|Roguelike.csproj|c:\\users\\user\\source\\repos\\roguelike\\roguelike.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{272E6E5C-0BC3-458F-AB29-BBED73CEDC4E}|Roguelike.csproj|solutionrelative:roguelike.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{272E6E5C-0BC3-458F-AB29-BBED73CEDC4E}|Roguelike.csproj|c:\\users\\user\\source\\repos\\roguelike\\consoleengine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{272E6E5C-0BC3-458F-AB29-BBED73CEDC4E}|Roguelike.csproj|solutionrelative:consoleengine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{272E6E5C-0BC3-458F-AB29-BBED73CEDC4E}|Roguelike.csproj|c:\\users\\user\\source\\repos\\roguelike\\consoleengine\\core\\consolewindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{272E6E5C-0BC3-458F-AB29-BBED73CEDC4E}|Roguelike.csproj|solutionrelative:consoleengine\\core\\consolewindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\source\\repos\\ConsoleEngine\\Globals\\Tools\\ConsoleWindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{272E6E5C-0BC3-458F-AB29-BBED73CEDC4E}|Roguelike.csproj|c:\\users\\user\\source\\repos\\roguelike\\consoleengine\\core\\consolehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{272E6E5C-0BC3-458F-AB29-BBED73CEDC4E}|Roguelike.csproj|solutionrelative:consoleengine\\core\\consolehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\source\\repos\\ConsoleEngine\\Globals\\Tools\\ConsoleHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\source\\repos\\ConsoleEngine\\Game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\source\\repos\\ConsoleEngine\\Engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\source\\repos\\ConsoleEngine\\Core\\Main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\source\\repos\\TOR\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\source\\repos\\ConsoleEngine\\Core\\ProjectSetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 14,
+          "SelectedChildIndex": 33,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{4a8466fe-5a05-4f81-ad45-7d7c1316817e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6d4078d1-5951-4ed1-ac0e-0a8099c1cce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tiles.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Roguelike\\Assets\\Tiles.cs",
+              "RelativeDocumentMoniker": "Assets\\Tiles.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Roguelike\\Assets\\Tiles.cs",
+              "RelativeToolTip": "Assets\\Tiles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADgvwsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T21:24:34.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Tile.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Roguelike\\Scripts\\Tile.cs",
+              "RelativeDocumentMoniker": "Scripts\\Tile.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Roguelike\\Scripts\\Tile.cs",
+              "RelativeToolTip": "Scripts\\Tile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T21:19:54.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Tile.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ConsoleEngine\\Core\\System\\ECS\\Tile.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleEngine\\Core\\System\\ECS\\Tile.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ConsoleEngine\\Core\\System\\ECS\\Tile.cs",
+              "RelativeToolTip": "..\\ConsoleEngine\\Core\\System\\ECS\\Tile.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T21:18:23.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GameObject.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ConsoleEngine\\Core\\System\\ECS\\GameObject.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleEngine\\Core\\System\\ECS\\GameObject.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ConsoleEngine\\Core\\System\\ECS\\GameObject.cs",
+              "RelativeToolTip": "..\\ConsoleEngine\\Core\\System\\ECS\\GameObject.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAADwvxQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T21:04:50.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameObject.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Roguelike\\Scripts\\GameObject.cs",
+              "RelativeDocumentMoniker": "Scripts\\GameObject.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Roguelike\\Scripts\\GameObject.cs",
+              "RelativeToolTip": "Scripts\\GameObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T21:04:30.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Position.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ConsoleEngine\\Core\\System\\ECS\\Components\\Position.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleEngine\\Core\\System\\ECS\\Components\\Position.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ConsoleEngine\\Core\\System\\ECS\\Components\\Position.cs",
+              "RelativeToolTip": "..\\ConsoleEngine\\Core\\System\\ECS\\Components\\Position.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAFgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T21:03:07.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Vector2.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Roguelike\\Scripts\\Vector2.cs",
+              "RelativeDocumentMoniker": "Scripts\\Vector2.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Roguelike\\Scripts\\Vector2.cs",
+              "RelativeToolTip": "Scripts\\Vector2.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAA0wB0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T21:02:55.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Documentation.txt",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Roguelike\\Assets\\Documentation.txt",
+              "RelativeDocumentMoniker": "Assets\\Documentation.txt",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Roguelike\\Assets\\Documentation.txt",
+              "RelativeToolTip": "Assets\\Documentation.txt",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-04-06T20:34:38.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Graphics.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Roguelike\\Scripts\\Graphics.cs",
+              "RelativeDocumentMoniker": "Scripts\\Graphics.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Roguelike\\Scripts\\Graphics.cs",
+              "RelativeToolTip": "Scripts\\Graphics.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T20:03:22.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Text.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ConsoleEngine\\Core\\System\\ECS\\Text.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleEngine\\Core\\System\\ECS\\Text.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ConsoleEngine\\Core\\System\\ECS\\Text.cs",
+              "RelativeToolTip": "..\\ConsoleEngine\\Core\\System\\ECS\\Text.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAADwvx8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T19:28:41.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UI.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\TOR\\Scripts\\UI\\UI.cs",
+              "RelativeDocumentMoniker": "..\\TOR\\Scripts\\UI\\UI.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\TOR\\Scripts\\UI\\UI.cs",
+              "RelativeToolTip": "..\\TOR\\Scripts\\UI\\UI.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAAHcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T19:26:10.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GameUI.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\TOR\\Scripts\\UI\\GameUI.cs",
+              "RelativeDocumentMoniker": "..\\TOR\\Scripts\\UI\\GameUI.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\TOR\\Scripts\\UI\\GameUI.cs",
+              "RelativeToolTip": "..\\TOR\\Scripts\\UI\\GameUI.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAFAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T19:27:34.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TempleOR.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\TOR\\TempleOR.cs",
+              "RelativeDocumentMoniker": "..\\TOR\\TempleOR.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\TOR\\TempleOR.cs",
+              "RelativeToolTip": "..\\TOR\\TempleOR.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T19:22:49.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HandleInput.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\TOR\\Scripts\\HandleInput.cs",
+              "RelativeDocumentMoniker": "..\\TOR\\Scripts\\HandleInput.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\TOR\\Scripts\\HandleInput.cs",
+              "RelativeToolTip": "..\\TOR\\Scripts\\HandleInput.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T19:22:19.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Roguelike",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Roguelike\\Roguelike.csproj",
+              "RelativeDocumentMoniker": "Roguelike.csproj",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Roguelike\\Roguelike.csproj",
+              "RelativeToolTip": "Roguelike.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-06T18:47:05.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Roguelike",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Roguelike\\Roguelike.csproj",
+              "RelativeDocumentMoniker": "Roguelike.csproj",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Roguelike\\Roguelike.csproj",
+              "RelativeToolTip": "Roguelike.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-06T18:47:07.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ConsoleFullscreen.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Roguelike\\ConsoleEngine\\Core\\ConsoleFullscreen.cs",
+              "RelativeDocumentMoniker": "ConsoleEngine\\Core\\ConsoleFullscreen.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Roguelike\\ConsoleEngine\\Core\\ConsoleFullscreen.cs",
+              "RelativeToolTip": "ConsoleEngine\\Core\\ConsoleFullscreen.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAcwDsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T18:37:38.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ConsoleWindow.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ConsoleEngine\\Globals\\Tools\\ConsoleWindow.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleEngine\\Globals\\Tools\\ConsoleWindow.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ConsoleEngine\\Globals\\Tools\\ConsoleWindow.cs",
+              "RelativeToolTip": "..\\ConsoleEngine\\Globals\\Tools\\ConsoleWindow.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAACAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T18:34:45.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ConsoleWindow.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Roguelike\\ConsoleEngine\\Core\\ConsoleWindow.cs",
+              "RelativeDocumentMoniker": "ConsoleEngine\\Core\\ConsoleWindow.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Roguelike\\ConsoleEngine\\Core\\ConsoleWindow.cs",
+              "RelativeToolTip": "ConsoleEngine\\Core\\ConsoleWindow.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T18:34:43.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ConsoleHelper.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ConsoleEngine\\Globals\\Tools\\ConsoleHelper.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleEngine\\Globals\\Tools\\ConsoleHelper.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ConsoleEngine\\Globals\\Tools\\ConsoleHelper.cs",
+              "RelativeToolTip": "..\\ConsoleEngine\\Globals\\Tools\\ConsoleHelper.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAACMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T18:34:10.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ConsoleHelper.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Roguelike\\ConsoleEngine\\Core\\ConsoleHelper.cs",
+              "RelativeDocumentMoniker": "ConsoleEngine\\Core\\ConsoleHelper.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Roguelike\\ConsoleEngine\\Core\\ConsoleHelper.cs",
+              "RelativeToolTip": "ConsoleEngine\\Core\\ConsoleHelper.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAADwvx4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T18:34:08.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ConsoleEngine\\Game.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleEngine\\Game.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ConsoleEngine\\Game.cs",
+              "RelativeToolTip": "..\\ConsoleEngine\\Game.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAAEIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T18:31:48.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\TOR\\Program.cs",
+              "RelativeDocumentMoniker": "..\\TOR\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\TOR\\Program.cs",
+              "RelativeToolTip": "..\\TOR\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T18:31:06.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ProjectSetup.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ConsoleEngine\\Core\\ProjectSetup.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleEngine\\Core\\ProjectSetup.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ConsoleEngine\\Core\\ProjectSetup.cs",
+              "RelativeToolTip": "..\\ConsoleEngine\\Core\\ProjectSetup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T18:30:35.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ConsoleEngine\\Core\\Main.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleEngine\\Core\\Main.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ConsoleEngine\\Core\\Main.cs",
+              "RelativeToolTip": "..\\ConsoleEngine\\Core\\Main.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T18:30:32.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Engine.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ConsoleEngine\\Engine.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleEngine\\Engine.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ConsoleEngine\\Engine.cs",
+              "RelativeToolTip": "..\\ConsoleEngine\\Engine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T18:30:05.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Symbols.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Roguelike\\Assets\\Symbols.cs",
+              "RelativeDocumentMoniker": "Assets\\Symbols.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Roguelike\\Assets\\Symbols.cs",
+              "RelativeToolTip": "Assets\\Symbols.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T18:01:18.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Redemption.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Roguelike\\Redemption.cs",
+              "RelativeDocumentMoniker": "Redemption.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Roguelike\\Redemption.cs",
+              "RelativeToolTip": "Redemption.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAAAG4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T17:35:07.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Roguelike\\ConsoleEngine\\Game.cs",
+              "RelativeDocumentMoniker": "ConsoleEngine\\Game.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Roguelike\\ConsoleEngine\\Game.cs",
+              "RelativeToolTip": "ConsoleEngine\\Game.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAswFAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T17:30:06.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Engine.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Roguelike\\ConsoleEngine\\Engine.cs",
+              "RelativeDocumentMoniker": "ConsoleEngine\\Engine.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Roguelike\\ConsoleEngine\\Engine.cs",
+              "RelativeToolTip": "ConsoleEngine\\Engine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T17:27:59.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Roguelike\\ConsoleEngine\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleEngine\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Roguelike\\ConsoleEngine\\Program.cs",
+              "RelativeToolTip": "ConsoleEngine\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T17:10:41.312Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
